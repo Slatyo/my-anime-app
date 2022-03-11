@@ -3,6 +3,7 @@
 
 
 [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
+[![Pipeline](https://github.com/Slatyo/my-anime-app/actions/workflows/laravel.yml/badge.svg)](https://github.com/Slatyo/my-anime-app/actions/workflows/laravel.yml)
 
 # Project Title
 
